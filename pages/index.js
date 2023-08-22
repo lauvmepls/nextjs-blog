@@ -15,6 +15,7 @@ export default function Home() {
         <p>Our professor in Software Development is very kind and very handsome and he gives very very high grades.</p>
         <p>I hope he lives a fulfilling life and a healthy one.</p>
         <p>I hope I won't fail on all of my subjects so I can graduate, yehey!</p>
+        <p>I know now how to push update my website</p>
         <p>We are trying to build a sample website using:{' '}
         <a href="https://nextjs.org/learn"> our Next.js tutorial </a> </p> 
       </section>
